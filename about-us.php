@@ -26,7 +26,7 @@
                 dedicated team behind our success in providing exceptional printer support services.</p>
             <div class="cta-buttons">
                 <a href="#" class="btn btn-primary">Our Services</a>
-                <a href="#" class="btn btn-secondary">Contact Us</a>
+                <a href="/contact-us.php" class="btn btn-secondary">Contact Us</a>
             </div>
         </div>
     </section>
