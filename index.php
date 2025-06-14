@@ -118,31 +118,18 @@
         <h2 class="brand-section-title">Choose Your Printer Brand</h2>
         <p class="brand-section-subtitle">Find Your Perfect Printing Partner: Explore Top Printer Brands!</p>
         <div class="brand-grid">
-            <div class="brand-card"><img src="https://cdn.freebiesupply.com/logos/large/2x/hp-logo-png-transparent.png"
-                    alt="HP"></div>
-            <div class="brand-card"><img src="https://logos-world.net/wp-content/uploads/2020/07/Canon-Logo.png"
-                    alt="Canon"></div>
-            <div class="brand-card"><img src="https://logos-world.net/wp-content/uploads/2020/12/Epson-Logo.png"
-                    alt="Epson"></div>
-            <div class="brand-card"><img src="https://logos-world.net/wp-content/uploads/2020/12/Brother-Logo.png"
-                    alt="Brother"></div>
-            <div class="brand-card"><img src="https://logos-world.net/wp-content/uploads/2021/02/Ricoh-Logo.png"
-                    alt="Ricoh"></div>
-            <div class="brand-card"><img src="https://logos-world.net/wp-content/uploads/2021/08/Xerox-Logo.png"
-                    alt="Xerox"></div>
-            <div class="brand-card"><img src="https://www.pngmart.com/files/15/Tally-Solutions-PNG-Photo.png"
-                    alt="Tally"></div>
-            <div class="brand-card"><img src="https://logos-world.net/wp-content/uploads/2020/07/Kyocera-Logo.png"
-                    alt="Kyocera"></div>
-            <div class="brand-card"><img src="https://logos-world.net/wp-content/uploads/2020/07/Panasonic-Logo.png"
-                    alt="Panasonic"></div>
-            <div class="brand-card"><img src="https://logos-world.net/wp-content/uploads/2020/04/Samsung-Logo.png"
-                    alt="Samsung"></div>
-            <div class="brand-card"><img src="https://logos-world.net/wp-content/uploads/2020/07/Fujitsu-Logo.png"
-                    alt="Fujitsu"></div>
-            <div class="brand-card"><img
-                    src="https://logos-world.net/wp-content/uploads/2021/03/Konica-Minolta-Logo.png"
-                    alt="Konica Minolta"></div>
+            <div class="brand-card"><img src="/assets/1.png" alt="HP"></div>
+            <div class="brand-card"><img src="hp-logo-png-transparent.png" alt="Canon"></div>
+            <div class="brand-card"><img src="/assets/2.png" alt="Epson"></div>
+            <div class="brand-card"><img src="/assets/Epson-Logo.png" alt="Brother"></div>
+            <div class="brand-card"><img src="/assets/3.png" alt="Ricoh"></div>
+            <div class="brand-card"><img src="/assets/4.png" alt="Xerox"></div>
+            <div class="brand-card"><img src="/assets/5.png" alt="Tally"></div>
+            <div class="brand-card"><img src="/assets/6.png" alt="Kyocera"></div>
+            <div class="brand-card"><img src="/assets/7.png" alt="Panasonic"></div>
+            <div class="brand-card"><img src="/assets/Samsung-Logo.png" alt="Samsung"></div>
+            <div class="brand-card"><img src="/assets/8.png" alt="Fujitsu"></div>
+            <div class="brand-card"><img src="/assets/9.png" alt="Konica Minolta"></div>
         </div>
     </section>
 
@@ -178,12 +165,9 @@
     <section class="why-choose-section">
         <div class="image-section">
             <div class="slider-container">
-                <img src="https://images.unsplash.com/photo-1581093458799-0d6c0e5d2e8d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80"
-                    class="slide active" alt="Slide 1">
-                <img src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80"
-                    class="slide" alt="Slide 2">
-                <img src="https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80"
-                    class="slide" alt="Slide 3">
+                <img src="/assets/printer1.png" class="slide active" alt="Slide 1">
+                <img src="/assets/printer2.png" class="slide" alt="Slide 2">
+                <img src="/assets/printer3.png" class="slide" alt="Slide 3">
             </div>
             <div class="thumbnails">
                 <div class="thumbnail active" data-index="0"><img
@@ -210,25 +194,24 @@
                 <p>No matter what your problems are whether they are simple, like paper jams or printer not printing, or
                     something complicated, like network configuration, our Top-rated technicians can provide complete
                     troubleshooting, all in the same place. </p>
-                <li>Step-by-Step Instructions & Remote Support</li>
+                <!-- <li>Step-by-Step Instructions & Remote Support</li>
                 <p>We don't only give instructions; we walk you through the steps. Prefer remote support? Our
                     technicians can access your device securely and resolve your issues instantly. </p>
                 <li>Regular Updates, Maintenance, and Optimization</li>
                 <p>The majority of compatibility issues stem from drivers being out of date. We will make sure to
                     refresh your printer drivers and that they are current, so you'll be printing quickly and hassle
-                    free.</p>
+                    free.</p> -->
                 <li>Quick Response, 24/7 Service</li>
                 <p>Time is always of the essence. In most cases, we can get you printing again without delay, any time
                     of the day or night. We are always open!</p>
-                <li>Home & Business User Trusted!</li>
-                <p>Personal or business printer, you'll receive professional, reliable service from Printer Setup Zone
-                    every time!</p>
+                <!-- <li>Home & Business User Trusted!</li>
+
             </ul>
             <p>Choose Printer Setup Zone — Where expert care and quick service come together. Let's get your printer
-                issues resolved today! </p>
+                issues resolved today! </p> -->
 
 
-            <button>ENQUIRE NOW</button>
+                <button>ENQUIRE NOW</button>
         </div>
     </section>
 

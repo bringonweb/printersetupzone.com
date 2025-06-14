@@ -122,8 +122,11 @@
             <ul class="footer-links">
                 <li><a href="/about-us.php">About Us</a></li>
                 <li><a href="/contact-us.php">Contact</a></li>
+                <li><a href="/disclaimer.php">Disclaimer</a></li>
                 <li><a href="/privacy-policy.php">privacy Policy</a></li>
+                <li><a href="/refund-policy.php">Refund Policy</a></li>
                 <li><a href="/terms-and-conditions.php">Terms and Conditions</a></li>
+
             </ul>
         </div>
         <div class="footer-column">
