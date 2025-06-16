@@ -75,7 +75,7 @@
 
             <div class="contact-form">
                 <h3 style="font-size: 1.8rem; color: #2a3d1f; margin-bottom: 25px;">Send Us a Message</h3>
-                <form id="contactForm" action="send_email.php" method="POST">
+                <form id="contactForm" action="contact-send-eamil.php" method="POST">
                     <div class="form-group">
                         <label for="name">Full Name *</label>
                         <input type="text" id="name" name="name" required>
