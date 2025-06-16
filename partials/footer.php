@@ -145,7 +145,7 @@
             <h3>Contact Us</h3>
             <div class="footer-contact">
                 <p><i class="fas fa-map-marker-alt"></i>2nd floor, 241 Molnar Dr Elmwood Park, NJ 07407, USA</p>
-                <p><i class="fas fa-phone"></i> +1 (800) 123-4567</p>
+                <p><i class="fas fa-phone"></i>xxxxxxxx</p>
                 <p><i class="fas fa-envelope"></i> support@PrinterSetupZone.com</p>
                 <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 8PM, Sat-Sun: 9AM - 6PM</p>
             </div>
