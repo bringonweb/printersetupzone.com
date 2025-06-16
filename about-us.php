@@ -49,12 +49,6 @@
                     out of paper warnings, or dealing with paper jams. That's why we are here to help you with all areas
                     or installation, configuration and support requests so that you can continue printing with
                     confidence.</p>
-                <!-- <p>What started as a local service for San Francisco businesses has expanded to serve clients across the
-                    United States. We've maintained our commitment to exceptional service while embracing technological
-                    advancements in the printing industry.</p>
-                <p>Today, we handle over 50,000 support requests annually, serving both small businesses and enterprise
-                    clients with equal dedication. Our growth has been fueled by our unwavering commitment to solving
-                    printer problems quickly and effectively.</p> -->
 
                 <div class="milestones">
                     <div class="milestone-card">
@@ -182,94 +176,8 @@
         </div>
     </section>
 
-    <!-- Testimonials Section -->
-    <!-- <section class="testimonials-section">
-        <div class="testimonials-container">
-            <h2 class="section-title">What Our Clients Say</h2>
-            <p class="section-subtitle">Don't just take our word for it - hear from our satisfied customers</p>
-
-            <div class="testimonials-grid">
-                <div class="testimonial-card">
-                    <div class="testimonial-content">
-                        "PrinterSetupZone saved our business during a critical deadline. Their technician arrived within
-                        an
-                        hour and fixed our production printer in no time. Exceptional service!"
-                    </div>
-                    <div class="client-info">
-                        <div class="client-avatar">
-                            <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
-                                alt="James Wilson">
-                        </div>
-                        <div class="client-details">
-                            <h4>James Wilson</h4>
-                            <p>Marketing Director, TechFlow</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="testimonial-card">
-                    <div class="testimonial-content">
-                        "We've been using PrinterSetupZone for all our office printer maintenance for three years. Their
-                        proactive approach has reduced our downtime by 80%. Highly recommended!"
-                    </div>
-                    <div class="client-info">
-                        <div class="client-avatar">
-                            <img src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
-                                alt="Sarah Johnson">
-                        </div>
-                        <div class="client-details">
-                            <h4>Sarah Johnson</h4>
-                            <p>Operations Manager, InnovateCo</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="testimonial-card">
-                    <div class="testimonial-content">
-                        "The team at PrinterSetupZone transformed our printing infrastructure. Their expertise saved us
-                        thousands in unnecessary equipment upgrades. Truly professional service."
-                    </div>
-                    <div class="client-info">
-                        <div class="client-avatar">
-                            <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80"
-                                alt="Michael Chen">
-                        </div>
-                        <div class="client-details">
-                            <h4>Michael Chen</h4>
-                            <p>IT Director, Global Solutions</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-
     <?php include 'partials/footer.php'; ?>
 
-
-    <script>
-
-
-        // Card hover animations
-        // document.querySelectorAll('.milestone-card, .value-card, .feature-card, .testimonial-card').forEach(card => {
-        //     card.addEventListener('mouseenter', () => {
-        //         card.style.transform = card.classList.contains('milestone-card') ?
-        //             'translateY(-15px)' :
-        //             card.classList.contains('feature-card') ?
-        //                 'translateY(-15px)' :
-        //                 'translateY(-10px)';
-        //     });
-
-        //     card.addEventListener('mouseleave', () => {
-        //         card.style.transform = 'translateY(0)';
-        //     });
-        // });
-
-
-    </script>
-    <!-- <script src="/main.js"></script> -->
-
-    <!-- <script src="./main.js"></script> -->
     <script src="./js/navbar.js"></script>
     <script src="./js/about.js"></script>
 
