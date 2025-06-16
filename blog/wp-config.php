@@ -26,7 +26,7 @@ define('DB_NAME', 'u635694844_Printersetupzo');
 define('DB_USER', 'u635694844_Printersetupzo');
 
 /** Database password */
-define('DB_PASSWORD', 'Blogprintersetupzone.com@123!');
+define('DB_PASSWORD', 'Blogprintersetupzone@123!');
 
 /** Database hostname */
 define('DB_HOST', 'localhost');
