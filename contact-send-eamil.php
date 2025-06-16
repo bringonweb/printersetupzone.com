@@ -14,7 +14,7 @@ require 'PHPMailer/SMTP.php';
 $host = 'localhost';
 $db = 'u635694844_Printersetupzo';
 $user = 'u635694844_Printersetupzo';
-$pass = 'zpzlkerohziiaouu';
+$pass = 'Printersetupzone@#12';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     // Sanitize form inputs using modern methods
