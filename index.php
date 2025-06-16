@@ -35,7 +35,7 @@
         <div class="support-overlay"></div>
         <div class="support-content">
             <div class="support-left">
-                <h1>Are You Facing Issues With Your Printers?</h1>
+                <h1>Your One-stop Solution for All Printers Setup & Repair Services</h1>
                 <p>
                     PrinterSetupZone offers online printer maintenance services to deal with problems like updating
                     drivers, paper jams, connectivity issues, or any other issues. Our team is dedicated to providing
