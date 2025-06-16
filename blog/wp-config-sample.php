@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'u635694844_blogprinterset');
+define('DB_NAME', 'database_name_here');
 
 /** Database username */
-define('DB_USER', 'u635694844_blogprinterset');
+define('DB_USER', 'username_here');
 
 /** Database password */
-define('DB_PASSWORD', 'Blogprintersetupzone.com@123!');
+define('DB_PASSWORD', 'password_here');
 
 /** Database hostname */
 define('DB_HOST', 'localhost');
@@ -95,7 +95,7 @@ define('WP_DEBUG', false);
 
 /** Absolute path to the WordPress directory. */
 if (!defined('ABSPATH')) {
-    define('ABSPATH', __DIR__ . '/');
+	define('ABSPATH', __DIR__ . '/');
 }
 
 /** Sets up WordPress vars and included files. */
