@@ -352,7 +352,7 @@
 
         <ul class="nav-menu">
             <li class="nav-item">
-                <a href="/index" class="nav-link">Home</a>
+                <a href="/index.php" class="nav-link">Home</a>
             </li>
             <li class="nav-item">
                 <a href="/about-us" class="nav-link">About</a>
@@ -403,9 +403,9 @@
                     <div class="dropdown-column">
                         <!-- <h4>Policies</h4> -->
                         <ul class="dropdown-links">
-                            <li><a href="#">Privacy Policy</a></li>
-                            <li><a href="#">Refund Policy</a></li>
-                            <li><a href="#">Terms and Condition</a></li>
+                            <li><a href="privacy-policy">Privacy Policy</a></li>
+                            <li><a href="refund-policy">Refund Policy</a></li>
+                            <li><a href="terms-and-conditions">Terms and Condition</a></li>
                         </ul>
                     </div>
                 </div>
@@ -434,19 +434,19 @@
             <a href="index.php" class="mobile-nav-link">Home</a>
         </li>
         <li class="mobile-nav-item">
-            <a href="#" class="mobile-nav-link">About</a>
+            <a href="/about-us" class="mobile-nav-link">About</a>
         </li>
         <li class="mobile-nav-item">
             <a href="#" class="mobile-nav-link">Blog</a>
         </li>
         <li class="mobile-nav-item">
-            <a href="#" class="mobile-nav-link">Printer Support <i class="fas fa-chevron-down"></i></a>
+            <a href="#" class="mobile-nav-link">Policies<i class="fas fa-chevron-down"></i></a>
             <div class="mobile-dropdown">
                 <div class="mobile-dropdown-item">
-                    <h4>Policies</h4>
-                    <a href="#" class="mobile-dropdown-link">Privacy Policy</a>
-                    <a href="#" class="mobile-dropdown-link">Refund Policy</a>
-                    <a href="#" class="mobile-dropdown-link">Terms and Condition</a>
+                    <!-- <h4>Policies</h4> -->
+                    <a href="privacy-policy" class="mobile-dropdown-link">Privacy Policy</a>
+                    <a href="refund-policy" class="mobile-dropdown-link">Refund Policy</a>
+                    <a href="terms-and-conditions" class="mobile-dropdown-link">Terms and Condition</a>
                     <!-- <a href="#" class="mobile-dropdown-link">Brother Printers</a>
                     <a href="#" class="mobile-dropdown-link">Xerox Printers</a> -->
                 </div>
