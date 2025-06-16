@@ -248,65 +248,31 @@
 
 
     <script>
-        // // Sticky header effect
-        // window.addEventListener('scroll', () => {
-        //     const header = document.querySelector('.header');
-        //     if (window.scrollY > 50) {
-        //         header.style.background = 'rgba(0, 0, 0, 0.98)';
-        //         header.style.boxShadow = '0 5px 20px rgba(0, 0, 0, 0.8)';
-        //     } else {
-        //         header.style.background = 'rgba(0, 0, 0, 0.95)';
-        //         header.style.boxShadow = '0 4px 20px rgba(0, 0, 0, 0.5)';
-        //     }
-        // });
+
 
         // Card hover animations
-        document.querySelectorAll('.milestone-card, .value-card, .feature-card, .testimonial-card').forEach(card => {
-            card.addEventListener('mouseenter', () => {
-                card.style.transform = card.classList.contains('milestone-card') ?
-                    'translateY(-15px)' :
-                    card.classList.contains('feature-card') ?
-                        'translateY(-15px)' :
-                        'translateY(-10px)';
-            });
+        // document.querySelectorAll('.milestone-card, .value-card, .feature-card, .testimonial-card').forEach(card => {
+        //     card.addEventListener('mouseenter', () => {
+        //         card.style.transform = card.classList.contains('milestone-card') ?
+        //             'translateY(-15px)' :
+        //             card.classList.contains('feature-card') ?
+        //                 'translateY(-15px)' :
+        //                 'translateY(-10px)';
+        //     });
 
-            card.addEventListener('mouseleave', () => {
-                card.style.transform = 'translateY(0)';
-            });
-        });
-
-        // Mobile menu toggle
-        // const hamburger = document.querySelector('.hamburger');
-        // const navMenu = document.querySelector('.nav-menu');
-
-        // hamburger.addEventListener('click', () => {
-        //     const isDisplayed = navMenu.style.display === 'flex';
-        //     navMenu.style.display = isDisplayed ? 'none' : 'flex';
-        //     navMenu.style.flexDirection = 'column';
-        //     navMenu.style.position = 'absolute';
-        //     navMenu.style.top = '100%';
-        //     navMenu.style.left = '0';
-        //     navMenu.style.width = '100%';
-        //     navMenu.style.background = 'rgba(0, 0, 0, 0.95)';
-        //     navMenu.style.padding = '20px 0';
-        //     navMenu.style.gap = '10px';
-        // });
-
-        // Smooth scrolling for anchor links
-        // document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        //     anchor.addEventListener('click', function (e) {
-        //         e.preventDefault();
-        //         const target = document.querySelector(this.getAttribute('href'));
-        //         if (target) {
-        //             window.scrollTo({
-        //                 top: target.offsetTop - 80,
-        //                 behavior: 'smooth'
-        //             });
-        //         }
+        //     card.addEventListener('mouseleave', () => {
+        //         card.style.transform = 'translateY(0)';
         //     });
         // });
+
+
     </script>
-    <script src="/main.js"></script>
+    <!-- <script src="/main.js"></script> -->
+
+    <!-- <script src="./main.js"></script> -->
+    <script src="./js/navbar.js"></script>
+    <script src="./js/about.js"></script>
+
 </body>
 
 </html>

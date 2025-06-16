@@ -58,7 +58,7 @@
         </div>
     </div>
     <?php include 'partials/footer.php'; ?>
-    <script src="/main.js"></script>
+    <script src="./js/navbar.js"></script>
 </body>
 
 </html>

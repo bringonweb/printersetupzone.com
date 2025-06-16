@@ -110,34 +110,36 @@
                 maintenance and solutions for a variety of printers. We are not affiliated with any specific printer
                 brand or manufacturer. All product names, logos and trademarks belong to their respective owners and are
                 used for informational purposes only. </p>
-            <div class="social-icons">
+            <!-- <div class="social-icons">
                 <a href="#"><i class="fab fa-facebook-f"></i></a>
                 <a href="#"><i class="fab fa-twitter"></i></a>
                 <a href="#"><i class="fab fa-instagram"></i></a>
                 <a href="#"><i class="fab fa-linkedin-in"></i></a>
-            </div>
+            </div> -->
         </div>
         <div class="footer-column">
             <h3>Quick Links</h3>
             <ul class="footer-links">
-                <li><a href="/about-us.php">About Us</a></li>
-                <li><a href="/contact-us.php">Contact</a></li>
-                <li><a href="/disclaimer.php">Disclaimer</a></li>
-                <li><a href="/privacy-policy.php">privacy Policy</a></li>
-                <li><a href="/refund-policy.php">Refund Policy</a></li>
-                <li><a href="/terms-and-conditions.php">Terms and Conditions</a></li>
+                <li><a href="/about-us">About Us</a></li>
+                <li><a href="/contact-us">Contact</a></li>
+                <li><a href="/disclaimer">Disclaimer</a></li>
+                <li><a href="/privacy-policy">privacy Policy</a></li>
+                <li><a href="/refund-policy">Refund Policy</a></li>
+                <li><a href="/terms-and-conditions">Terms and Conditions</a></li>
 
             </ul>
         </div>
         <div class="footer-column">
-            <h3>Services</h3>
+            <!-- <h3>Services</h3>
             <ul class="footer-links">
                 <li><a href="#">Printer Installation</a></li>
                 <li><a href="#">Driver Issues</a></li>
                 <li><a href="#">Wireless Setup</a></li>
                 <li><a href="#">Troubleshooting</a></li>
                 <li><a href="#">Maintenance</a></li>
-            </ul>
+            </ul> -->
+            <h3>Blogs</h3>
+
         </div>
         <div class="footer-column">
             <h3>Contact Us</h3>
@@ -146,6 +148,12 @@
                 <p><i class="fas fa-phone"></i> +1 (800) 123-4567</p>
                 <p><i class="fas fa-envelope"></i> support@PrinterSetupZone.com</p>
                 <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 8PM, Sat-Sun: 9AM - 6PM</p>
+            </div>
+            <div class="social-icons">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <!-- <a href="#"><i class="fab fa-x-twitter"></i></a> -->
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-linkedin-in"></i></a>
             </div>
         </div>
     </div>

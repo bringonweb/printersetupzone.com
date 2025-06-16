@@ -26,60 +26,9 @@
     <?php include 'partials/navbar.php'; ?>
 
 
-    <!-- Mobile Menu -->
-    <div class="mobile-menu">
-        <button class="close-menu">
-            <i class="fas fa-times"></i>
-        </button>
 
-        <ul class="mobile-nav-menu">
-            <li class="mobile-nav-item">
-                <a href="#" class="mobile-nav-link">Home</a>
-            </li>
-            <li class="mobile-nav-item">
-                <a href="#" class="mobile-nav-link">Services</a>
-            </li>
-            <li class="mobile-nav-item">
-                <a href="#" class="mobile-nav-link">Printer Support <i class="fas fa-chevron-down"></i></a>
-                <div class="mobile-dropdown">
-                    <div class="mobile-dropdown-item">
-                        <h4>Popular Brands</h4>
-                        <a href="#" class="mobile-dropdown-link">HP Printers</a>
-                        <a href="#" class="mobile-dropdown-link">Canon Printers</a>
-                        <a href="#" class="mobile-dropdown-link">Epson Printers</a>
-                        <a href="#" class="mobile-dropdown-link">Brother Printers</a>
-                        <a href="#" class="mobile-dropdown-link">Xerox Printers</a>
-                    </div>
-                    <div class="mobile-dropdown-item">
-                        <h4>Support Types</h4>
-                        <a href="#" class="mobile-dropdown-link">Installation</a>
-                        <a href="#" class="mobile-dropdown-link">Driver Issues</a>
-                        <a href="#" class="mobile-dropdown-link">Wireless Setup</a>
-                        <a href="#" class="mobile-dropdown-link">Troubleshooting</a>
-                        <a href="#" class="mobile-dropdown-link">Maintenance</a>
-                    </div>
-                    <div class="mobile-dropdown-item">
-                        <h4>Resources</h4>
-                        <a href="#" class="mobile-dropdown-link">User Manuals</a>
-                        <a href="#" class="mobile-dropdown-link">Software Downloads</a>
-                        <a href="#" class="mobile-dropdown-link">Support Videos</a>
-                        <a href="#" class="mobile-dropdown-link">FAQ</a>
-                        <a href="#" class="mobile-dropdown-link">Contact Support</a>
-                    </div>
-                </div>
-            </li>
-            <li class="mobile-nav-item">
-                <a href="#" class="mobile-nav-link">About</a>
-            </li>
-            <li class="mobile-nav-item">
-                <a href="#" class="mobile-nav-link">Contact</a>
-            </li>
-        </ul>
 
-        <button class="contact-btn mobile-contact-btn">Contact Us</button>
-    </div>
 
-    <div class="overlay"></div>
 
     <!-- Printer Support Section -->
     <section class="printer-support">
@@ -105,18 +54,19 @@
                     <h2>Book Your Free Consultation Today</h2>
                     <p>Need Assistance today? Fill in the details and our best expert will reach out to you for your
                         free consultation...</p>
+                    <!-- Update your form fields with name attributes -->
                     <form id="supportForm" action="index-form-send-mail.php" method="POST">
                         <div class="form-group">
-                            <input type="text" placeholder="Your Name*" required>
+                            <input type="text" name="name" placeholder="Your Name*" required>
                         </div>
                         <div class="form-group">
-                            <input type="tel" placeholder="Phone Number*" required>
+                            <input type="tel" name="phone" placeholder="Phone Number*" required>
                         </div>
                         <div class="form-group">
-                            <input type="email" placeholder="Email*" required>
+                            <input type="email" name="email" placeholder="Email*" required>
                         </div>
                         <div class="form-group">
-                            <textarea placeholder="Message"></textarea>
+                            <textarea name="message" placeholder="Message"></textarea>
                         </div>
                         <button type="submit">SUBMIT</button>
                     </form>
@@ -397,7 +347,7 @@
     <!-- Footer -->
     <?php include 'partials/footer.php'; ?>
 
-    <script>
+    <!-- <script>
         // Mobile menu toggle
         const hamburger = document.querySelector('.hamburger');
         const mobileMenu = document.querySelector('.mobile-menu');
@@ -573,8 +523,9 @@
 
         // Initialize first FAQ as active
         document.querySelector('.faq-item').classList.add('active');
-    </script>
-    <script src="/main.js"></script>
+    </script> -->
+    <!-- <script src="/main.js"></script> -->
+    <script src="./js/index.js"></script>
 </body>
 
 </html>
