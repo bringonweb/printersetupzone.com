@@ -47,7 +47,7 @@
                     </div>
                     <div class="info-content">
                         <h3>Phone Number</h3>
-                        <p>+1 (800) 123-4567 (Toll-Free)<br>+1 (415) 789-0123 (Local)</p>
+                        <p>xxxxxxx (Toll-Free)<br>xxxxxxxxx (Local)</p>
                     </div>
                 </div>
 
@@ -149,7 +149,7 @@
             <p>Our team of certified printer technicians is available around the clock to assist you with any printer
                 issues. Whether it's a hardware malfunction, software configuration, or connectivity problem, we're here
                 to help.</p>
-            <button class="contact-btn" style="max-width: 300px; margin: 0 auto;">Call Now: (800) 123-4567</button>
+            <button class="contact-btn" style="max-width: 300px; margin: 0 auto;">Call Now: xxxxxxxxxx</button>
         </div>
     </section>
 
