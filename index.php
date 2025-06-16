@@ -84,15 +84,15 @@
         <h2 class="brand-section-title">Choose Your Printer Brand</h2>
         <p class="brand-section-subtitle">Find Your Perfect Printing Partner: Explore Top Printer Brands!</p>
         <div class="brand-grid">
-            <div class="brand-card"><img src="/assets/10(1).png" alt="HP"></div>
+            <div class="brand-card"><img src="/assets/10 (1).png" alt="HP"></div>
             <div class="brand-card"><img src="/assets/1.png" alt="Canon"></div>
             <div class="brand-card"><img src="/assets/2.png" alt="Epson"></div>
-            <div class="brand-card"><img src="/assets/10(2).png" alt="Brother"></div>
+            <div class="brand-card"><img src="/assets/10 (2).png" alt="Brother"></div>
             <div class="brand-card"><img src="/assets/3.png" alt="Ricoh"></div>
             <div class="brand-card"><img src="/assets/4.png" alt="Xerox"></div>
-            <div class="brand-card"><img src="/assets/10(5).png" alt="Tally"></div>
-            <div class="brand-card"><img src="/assets/10(4).png" alt="Kyocera"></div>
-            <div class="brand-card"><img src="/assets/10(3).png" alt="Panasonic"></div>
+            <div class="brand-card"><img src="/assets/10 (5).png" alt="Tally"></div>
+            <div class="brand-card"><img src="/assets/10 (4).png" alt="Kyocera"></div>
+            <div class="brand-card"><img src="/assets/10 (3).png" alt="Panasonic"></div>
             <div class="brand-card"><img src="/assets/Samsung-Logo.png" alt="Samsung"></div>
             <div class="brand-card"><img src="/assets/8.png" alt="Fujitsu"></div>
             <div class="brand-card"><img src="/assets/9.png" alt="Konica Minolta"></div>
