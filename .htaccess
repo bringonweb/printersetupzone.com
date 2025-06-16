@@ -1,13 +1,18 @@
+# Turn on the URL rewriting engine
 RewriteEngine On
+
+# Redirect 'index.php' to the root
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/index\.php [NC]
 RewriteRule ^index\.php$ / [R=301,L]
 
-
-
-
-RewriteEngine On
+# Force www in the domain
 RewriteCond %{HTTP_HOST} !^www\.
 RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
 
-ErrorDocument 404 /404.php
+# Remove .php extension from URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [L]
 
+# Custom 404 page
+ErrorDocument 404 /404.php
