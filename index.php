@@ -37,15 +37,19 @@
             <div class="support-left">
                 <h1>Your One-stop Solution for All Printers Setup & Repair Services</h1>
                 <p>
-                    PrinterSetupZone offers online printer maintenance services to deal with problems like updating
-                    drivers, paper jams, connectivity issues, or any other issues. Our team is dedicated to providing
-                    fast and reliable solutions to restore your printer to peak performance.
+                    Is your printer causing you trouble? Printer Setup Zone is here to provide convenient and effective
+                    guides for everything printer setup, update latest version drivers and wi-fi or other connectivity
+                    problems. Whether it’s a new installation or you're stuck with an error message, we can get you
+                    printing again in no time. We can help with everything from initial printer setup to getting the
+                    printer talking to your system and then maintaining it. It's common for users to get connectivity
+                    problems when trying to connect through Wi-Fi or through a computer. With our support you won't have
+                    any issues whether your printing through a USB, wireless or printer connected to a network.
                 </p>
                 <ul class="benefits-list">
-                    <li>Get 24*7 Customer Support</li>
-                    <li>100% Money Back Guarantee</li>
-                    <li>Dedicate Support Team</li>
-                    <li>100% Resolution Guarantee</li>
+                    <li>Customer Service Available 24 Hours a Day</li>
+                    <li>Total Money-Back Guarantee</li>
+                    <li>Professional and Committed Support Staff</li>
+                    <li>Guaranteed Issue Resolution</li>
                 </ul>
             </div>
 
@@ -173,17 +177,8 @@
 
 
     <section class="printer-brand-section">
-        <h2 class="brand-section-title">Your One-stop Solution for All Printers Setup & Repair
-            Services </h2>
+        <h2 class="brand-section-title">Fix Common Printer Errors</h2>
         <!-- <p class="brand-section-subtitle">Find Your Perfect Printing Partner: Explore Top Printer Brands!</p> -->
-        <p class="brand-section-description"> Is your printer causing you trouble? Printer Setup Zone is here to provide
-            convenient and effective guides
-            for everything printer setup, update latest version drivers and wi-fi or other connectivity problems.
-            Whether it’s a new installation or you're stuck with an error message, we can get you printing again in no
-            time. We can help with everything from initial printer setup to getting the printer talking to your system
-            and then maintaining it. It's common for users to get connectivity problems when trying to connect through
-            Wi-Fi or through a computer. With our support you won't have any issues whether your printing through a USB,
-            wireless or printer connected to a network. </p>
         <p class="brand-section-description">One of the biggest issues when printing is paper jams; they can easily
             damage your printer and mess up your
             productivity. We take you through clearing a paper jam safely and how to stop them in the future! Is your
