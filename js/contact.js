@@ -1,8 +1,5 @@
-
 // Form validation and submission handling
 document.getElementById('contactForm').addEventListener('submit', function (e) {
-    e.preventDefault();
-
     // Form validation
     const name = document.getElementById('name').value;
     const email = document.getElementById('email').value;
@@ -10,6 +7,7 @@ document.getElementById('contactForm').addEventListener('submit', function (e) {
     const message = document.getElementById('message').value;
 
     if (!name || !email || !subject || !message) {
+        e.preventDefault();
         alert('Please fill in all required fields.');
         return;
     }
@@ -17,13 +15,12 @@ document.getElementById('contactForm').addEventListener('submit', function (e) {
     // Email validation
     const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     if (!emailPattern.test(email)) {
+        e.preventDefault();
         alert('Please enter a valid email address.');
         return;
     }
 
-    // Show confirmation message
-    alert('Thank you for your message! Our team will contact you shortly.');
-    this.reset();
+    // If validation passes, allow form submission
 });
 
 // Sticky header effect
