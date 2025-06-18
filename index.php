@@ -84,18 +84,18 @@
         <h2 class="brand-section-title">Choose Your Printer Brand</h2>
         <p class="brand-section-subtitle">Find Your Perfect Printing Partner: Explore Top Printer Brands!</p>
         <div class="brand-grid">
-            <div class="brand-card"><img src="/assets/10 (1).png" alt="HP"></div>
-            <div class="brand-card"><img src="/assets/1.png" alt="Canon"></div>
-            <div class="brand-card"><img src="/assets/2.png" alt="Epson"></div>
-            <div class="brand-card"><img src="/assets/10 (2).png" alt="Brother"></div>
-            <div class="brand-card"><img src="/assets/3.png" alt="Ricoh"></div>
-            <div class="brand-card"><img src="/assets/4.png" alt="Xerox"></div>
-            <div class="brand-card"><img src="/assets/10 (5).png" alt="Tally"></div>
-            <div class="brand-card"><img src="/assets/10 (4).png" alt="Kyocera"></div>
-            <div class="brand-card"><img src="/assets/10 (3).png" alt="Panasonic"></div>
-            <div class="brand-card"><img src="/assets/Samsung-Logo.png" alt="Samsung"></div>
-            <div class="brand-card"><img src="/assets/8.png" alt="Fujitsu"></div>
-            <div class="brand-card"><img src="/assets/9.png" alt="Konica Minolta"></div>
+            <div class="brand-card"><img src="/assets/10 (1).webp" alt="HP"></div>
+            <div class="brand-card"><img src="/assets/1.webp" alt="Canon"></div>
+            <div class="brand-card"><img src="/assets/2.webp" alt="Epson"></div>
+            <div class="brand-card"><img src="/assets/10 (2).webp" alt="Brother"></div>
+            <div class="brand-card"><img src="/assets/3.webp" alt="Ricoh"></div>
+            <div class="brand-card"><img src="/assets/4.webp" alt="Xerox"></div>
+            <div class="brand-card"><img src="/assets/10 (5).webp" alt="Tally"></div>
+            <div class="brand-card"><img src="/assets/10 (4).webp" alt="Kyocera"></div>
+            <div class="brand-card"><img src="/assets/10 (3).webp" alt="Panasonic"></div>
+            <!-- Samsung-Logo.png not found in assets, consider adding or removing this line -->
+            <div class="brand-card"><img src="/assets/8.webp" alt="Fujitsu"></div>
+            <div class="brand-card"><img src="/assets/9.webp" alt="Konica Minolta"></div>
         </div>
     </section>
 
@@ -131,14 +131,14 @@
     <section class="why-choose-section">
         <div class="image-section">
             <div class="slider-container">
-                <img src="/assets/printer1.png" class="slide active" alt="Slide 1">
-                <img src="/assets/printer2.png" class="slide" alt="Slide 2">
-                <img src="/assets/printer3.png" class="slide" alt="Slide 3">
+                <img src="/assets/printer1.webp" class="slide active" alt="Slide 1">
+                <img src="/assets/printer2.webp" class="slide" alt="Slide 2">
+                <img src="/assets/printer3.webp" class="slide" alt="Slide 3">
             </div>
             <div class="thumbnails">
-                <div class="thumbnail active" data-index="0"><img src="/assets/printer1.png" alt="Thumb 1"></div>
-                <div class="thumbnail" data-index="1"><img src="/assets/printer2.png" alt="Thumb 2"></div>
-                <div class="thumbnail" data-index="2"><img src="/assets/printer3.png" alt="Thumb 3"></div>
+                <div class="thumbnail active" data-index="0"><img src="/assets/printer1.webp" alt="Thumb 1"></div>
+                <div class="thumbnail" data-index="1"><img src="/assets/printer2.webp" alt="Thumb 2"></div>
+                <div class="thumbnail" data-index="2"><img src="/assets/printer3.webp" alt="Thumb 3"></div>
             </div>
         </div>
         <div class="content-section">
