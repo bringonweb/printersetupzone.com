@@ -105,6 +105,7 @@
 <footer class="footer">
     <div class="footer-content">
         <div class="footer-column">
+            <img src="/assets/logo.png" alt="PrinterSetupZone Logo" style="height:40px; margin-bottom:15px;">
             <h3>PrinterSetupZone</h3>
             <p>Printer Setup Zone is an independent service platform providing printer setup help, troubleshooting,
                 maintenance and solutions for a variety of printers. We are not affiliated with any specific printer

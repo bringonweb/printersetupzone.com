@@ -346,7 +346,7 @@
 <header class="header">
     <nav class="navbar">
         <a href="/index.php" class="logo">
-            <i class="fas fa-print"></i>
+            <img src="/assets/logo.png" alt="PrinterSetupZone Logo" style="height:40px; margin-right:10px;">
             PrinterSetupZone
         </a>
 
