@@ -4,7 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us - PrinterSetupZone Professional Printer Support</title>
+    <title>Contact Us - Quickly for Any Printer Issues</title>
+    <meta name="description"
+        content="If your printer isn’t working right, contact our skilled team anytime for complete setup and support solutions tailored to your needs.">
+    <link rel="canonical" href="https://www.printersetupzone.com/contact-us">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="css/contact-style.css">
 </head>

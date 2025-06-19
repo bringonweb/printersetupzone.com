@@ -4,8 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - PrinterSetupZone Professional Printer Support</title>
+    <title>About Us - Get Fast Guide for Printer Setup and Configuration</title>
+    <meta name="description"
+        content="Printer Setup Zone has skilled technicians with over 8 years of experience, offering expert solutions for printer setup, installation, and troubleshooting.">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="canonical" href="https://www.printersetupzone.com/about-us">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
 
