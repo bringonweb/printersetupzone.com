@@ -347,7 +347,7 @@
     <nav class="navbar">
         <a href="/index.php" class="logo">
             <img src="/assets/logo.png" alt="PrinterSetupZone Logo" style="height:40px; margin-right:10px;">
-            PrinterSetupZone
+            <!-- PrinterSetupZone -->
         </a>
 
         <ul class="nav-menu">
