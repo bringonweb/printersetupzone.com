@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 
 <head>
     <meta charset="UTF-8">
@@ -94,6 +94,7 @@
             <div class="brand-card"><img src="/assets/10 (5).webp" alt="Tally"></div>
             <div class="brand-card"><img src="/assets/10 (4).webp" alt="Kyocera"></div>
             <div class="brand-card"><img src="/assets/10 (3).webp" alt="Panasonic"></div>
+            <div class="brand-card"><img src="/assets/Samsung-Logo.webp" alt="Samsumg"></div>
             <!-- Samsung-Logo.png not found in assets, consider adding or removing this line -->
             <div class="brand-card"><img src="/assets/8.webp" alt="Fujitsu"></div>
             <div class="brand-card"><img src="/assets/9.webp" alt="Konica Minolta"></div>
