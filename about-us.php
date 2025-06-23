@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-US">
 
 <head>
     <meta charset="UTF-8">
@@ -14,6 +14,7 @@
         href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
 
     <link rel="stylesheet" href="css/about-style.css">
+    <link rel="icon" type="image/png" href="/assets/favicon.png">
 
 </head>
 
@@ -28,10 +29,10 @@
             <h1>About PrinterSetupZone</h1>
             <p>Your trusted partner in printer solutions for over a decade. Discover our journey, values, and the
                 dedicated team behind our success in providing exceptional printer support services.</p>
-            <div class="cta-buttons">
+            <!-- <div class="cta-buttons">
                 <a href="#" class="btn btn-primary">Our Services</a>
                 <a href="/contact-us.php" class="btn btn-secondary">Contact Us</a>
-            </div>
+            </div> -->
         </div>
     </section>
 
