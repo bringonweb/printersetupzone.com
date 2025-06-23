@@ -346,7 +346,7 @@
 <header class="header">
     <nav class="navbar">
         <a href="/index.php" class="logo">
-            <img src="/assets/logo.png" alt="PrinterSetupZone Logo" style="height:40px; margin-right:10px;">
+            <img src="/assets/logo.png" alt="PrinterSetupZone Logo" style="height:45px; margin-right:10px;">
             <!-- PrinterSetupZone -->
         </a>
 
@@ -358,7 +358,7 @@
                 <a href="/about-us" class="nav-link">About</a>
             </li>
             <li class="nav-item">
-                <a href="#" class="nav-link">Blog</a>
+                <a href="/blog" class="nav-link">Blog</a>
             </li>
             <li class="nav-item">
                 <a href="/contact-us" class="nav-link">Contact</a>
