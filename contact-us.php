@@ -48,7 +48,8 @@
 
                 <div class="info-card">
                     <div class="info-icon">
-                        <i class="fas fa-phone-alt"></i>
+                        <i class="fas fa-phone-alt" style="transform: scaleX(-1);"></i>
+
                     </div>
                     <div class="info-content">
                         <h3>Phone Number</h3>
@@ -62,7 +63,7 @@
                     </div>
                     <div class="info-content">
                         <h3>Email Address</h3>
-                        <p>support@PrinterSetupZone.com<br>info@PrinterSetupZone.com</p>
+                        <p>support@PrinterSetupZone.com</p>
                     </div>
                 </div>
 
@@ -88,12 +89,12 @@
 
                     <div class="form-group">
                         <label for="email">Email Address *</label>
-                        <input type="email" id="email" name="email" required>
+                        <input type="email" id="email" name="email">
                     </div>
 
                     <div class="form-group">
                         <label for="phone">Phone Number</label>
-                        <input type="tel" id="phone" name="phone">
+                        <input type="tel" id="phone" name="phone" required>
                     </div>
 
                     <div class="form-group">

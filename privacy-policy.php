@@ -66,7 +66,7 @@
                     We use cookies to create more functional experiences for users and to study usage. You can also
                     always modify your preferences on the use of cookies via your browser preferences.</p>
 
-                <div class="last-updated">Last updated: August 15, 2023</div>
+                <!-- <div class="last-updated">Last updated: August 15, 2023</div> -->
             </div>
         </div>
     </div>

@@ -69,7 +69,7 @@
                 <h3>Contact Us</h3>
                 <p>📞 +1 (000)-000-0000</p>
 
-                <div class="last-updated">Last updated: August 15, 2023</div>
+                <!-- <div class="last-updated">Last updated: August 15, 2023</div> -->
             </div>
         </div>
     </div>

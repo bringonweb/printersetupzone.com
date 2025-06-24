@@ -26,7 +26,7 @@
     <!-- Hero Section -->
     <section class="about-hero">
         <div class="hero-content">
-            <h1>About PrinterSetupZone</h1>
+            <h1>PrinterSetupZone</h1>
             <p>Your trusted partner in printer solutions for over a decade. Discover our journey, values, and the
                 dedicated team behind our success in providing exceptional printer support services.</p>
             <!-- <div class="cta-buttons">
