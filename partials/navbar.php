@@ -346,7 +346,7 @@
 <header class="header">
     <nav class="navbar">
         <a href="/index.php" class="logo">
-            <img src="/assets/logo.png" alt="PrinterSetupZone Logo" style="height:65px; margin-left:-65px;">
+            <img src="/assets/logo.png" alt="PrinterSetupZone Logo" style="height:65px; margin-left:-25px;">
             <!-- PrinterSetupZone -->
         </a>
 
