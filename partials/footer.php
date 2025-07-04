@@ -144,13 +144,23 @@
                 <li><a href="#">Maintenance</a></li>
             </ul> -->
             <h3>Blogs</h3>
+            <ul class="footer-links">
+                <li><a href="https://www.printersetupzone.com/blog/how-to-fix-printer-not-printing/">How to fix Printer
+                        not Printing properly</a></li>
+                <li><a href="https://www.printersetupzone.com/blog/how-to-update-printer-driver/">How to Update Printer
+                        Driver</a></li>
+                <li><a href="https://www.printersetupzone.com/blog/how-to-setup-a-printer/">How to SetUp Your Printer in
+                        Easy Steps</a></li>
+                <!-- <li><a href="#">Troubleshooting</a></li>
+                <li><a href="#">Maintenance</a></li> -->
+            </ul>
 
         </div>
         <div class="footer-column">
             <h3>Contact Us</h3>
             <div class="footer-contact">
                 <p><i class="fas fa-map-marker-alt"></i>2nd floor, 241 Molnar Dr Elmwood Park, NJ 07407, USA</p>
-                <p><i class="fas fa-phone"></i>xxxxxxxx</p>
+                <p><i class="fas fa-phone"></i>+1 (877) 717-1225</p>
                 <p><i class="fas fa-envelope"></i> support@PrinterSetupZone.com</p>
                 <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 8PM, Sat-Sun: 9AM - 6PM</p>
             </div>

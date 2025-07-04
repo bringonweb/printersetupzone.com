@@ -87,7 +87,7 @@
     <!-- Printer Brand Section -->
     <section class="printer-brand-section">
         <h2 class="brand-section-title">Choose Your Printer Brand</h2>
-        <p class="brand-section-subtitle">Find Your Perfect Printing Partner: Explore Top Printer Brands!</p>
+        <p class="brand-section-subtitle">Discover the Best Printer Solution for Home & Office.</p>
         <div class="brand-grid">
             <div class="brand-card"><img src="/assets/10 (1).webp" alt="HP"></div>
             <div class="brand-card"><img src="/assets/1.webp" alt="Canon"></div>
@@ -247,7 +247,7 @@
     <section class="testimonial-section">
         <div class="testimonial-header">
             <h2>Testimonials</h2>
-            <p>Find out why our customers keep coming back – their testimonials tell the whole story.</p>
+            <p>Trusted by Thousands See What Our Customers Say!</p>
         </div>
         <div class="testimonial-slider-wrapper">
             <div class="testimonial-slider" id="testimonial-slider">
@@ -295,7 +295,7 @@
     <section class="faq-section">
         <div class="faq-header">
             <h2>FAQ's</h2>
-            <p>Got questions about printers? We've got answers! Explore our FAQ section.</p>
+            <p>Confused about printers? Find quick answers in our FAQ section.</p>
         </div>
 
         <div class="faq-container">

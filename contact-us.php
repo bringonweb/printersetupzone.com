@@ -53,7 +53,7 @@
                     </div>
                     <div class="info-content">
                         <h3>Phone Number</h3>
-                        <p>xxxxxxx (Toll-Free)<br>xxxxxxxxx (Local)</p>
+                        <p>+1 (877) 717-1225 </p>
                     </div>
                 </div>
 

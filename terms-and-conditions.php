@@ -5,11 +5,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PrinterTouch - Policies</title>
-    <link rel="canonical" href="https://www.printersetupzone.com/terms-and-conditions"> 
+    <link rel="canonical" href="https://www.printersetupzone.com/terms-and-conditions"> 
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="css/policys-style.css">
+    <!-- Favicon -->
     <link rel="icon" type="image/png" href="/assets/favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon.png">
+    <meta name="msapplication-TileImage" content="/assets/favicon.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
 </head>
 
 <body>
@@ -67,7 +74,7 @@
                     by the changed terms.</p>
 
                 <h3>Contact Us</h3>
-                <p>📞 +1 (000)-000-0000</p>
+                <p>📞 +1 (877) 717-1225</p>
 
                 <!-- <div class="last-updated">Last updated: August 15, 2023</div> -->
             </div>
