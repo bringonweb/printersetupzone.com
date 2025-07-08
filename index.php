@@ -62,8 +62,7 @@
             <div class="support-right">
                 <div class="form-box">
                     <h2>Book Your Free Consultation Today</h2>
-                    <p>Need Assistance today? Fill in the details and our best expert will reach out to you for your
-                        free consultation...</p>
+                    <p>Need help? Just fill in your details and connect with our top expert today for free!</p>
                     <!-- Update your form fields with name attributes -->
                     <form id="supportForm" action="index-form-send-mail.php" method="POST">
                         <div class="form-group">

@@ -277,7 +277,8 @@
 
     @media (max-width: 576px) {
         .contact-hero {
-            padding: 100px 20px 60px;
+            padding: 140px 20px 60px;
+
         }
 
         .contact-hero h1 {

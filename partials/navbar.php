@@ -414,8 +414,8 @@
             </li>
 
         </ul>
-
-        <button class="contact-btn">Contact Us</button>
+        <a href="tel:+18777171225" style="text-decoration: none;  color: white;">
+            <button class="contact-btn">Contact Us</button></a>
 
         <button class="hamburger">
             <i class="fas fa-bars"></i>
@@ -437,7 +437,7 @@
             <a href="/about-us" class="mobile-nav-link">About</a>
         </li>
         <li class="mobile-nav-item">
-            <a href="#" class="mobile-nav-link">Blog</a>
+            <a href="/blog" class="mobile-nav-link">Blog</a>
         </li>
         <li class="mobile-nav-item">
             <a href="#" class="mobile-nav-link">Policies<i class="fas fa-chevron-down"></i></a>
@@ -469,12 +469,12 @@
             </div>
         </li>
         <li class="mobile-nav-item">
-            <a href="#" class="mobile-nav-link">Contact</a>
+            <a href="/contact-us" class="mobile-nav-link">Contact</a>
         </li>
 
     </ul>
-
-    <button class="contact-btn mobile-contact-btn">Contact Us</button>
+    <a href="tel:+18777171225" style="text-decoration: none;  color: white;">
+        <button class="contact-btn mobile-contact-btn">Contact Us</button></a>
 </div>
 
 <div class="overlay"></div>

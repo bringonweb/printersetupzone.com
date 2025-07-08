@@ -5,6 +5,22 @@
     font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+html,
+body {
+    overflow-x: hidden;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+img,
+video {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 :root {
     --primary-color: #3aaf85;
     --primary-dark: #2e8b68;
@@ -25,101 +41,6 @@ body {
     overflow-x: hidden;
 }
 
-/* Sticky Navbar Styles */
-/* .header {
-    position: sticky;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background: rgba(0, 0, 0, 0.95);
-    backdrop-filter: blur(10px);
-    z-index: 1000;
-    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    transition: var(--transition);
-}
-
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 15px 5%;
-    max-width: 1600px;
-    margin: 0 auto;
-}
-
-.logo {
-    font-size: 1.8rem;
-    font-weight: 700;
-    color: var(--white);
-    text-decoration: none;
-    display: flex;
-    align-items: center;
-}
-
-.logo i {
-    color: var(--primary-color);
-    margin-right: 10px;
-    transition: var(--transition);
-}
-
-.logo:hover i {
-    transform: rotate(-15deg);
-}
-
-.nav-menu {
-    display: flex;
-    list-style: none;
-}
-
-.nav-item {
-    position: relative;
-    margin: 0 15px;
-}
-
-.nav-link {
-    color: var(--white);
-    text-decoration: none;
-    font-size: 1.1rem;
-    font-weight: 500;
-    padding: 10px 15px;
-    border-radius: 5px;
-    transition: var(--transition);
-}
-
-.nav-link:hover {
-    color: var(--primary-color);
-    background: rgba(255, 255, 255, 0.05);
-}
-
-.contact-btn {
-    background: var(--primary-color);
-    color: var(--white);
-    border: none;
-    padding: 10px 25px;
-    font-size: 1.1rem;
-    border-radius: 6px;
-    cursor: pointer;
-    font-weight: 600;
-    transition: var(--transition);
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-
-.contact-btn:hover {
-    background: var(--primary-dark);
-    transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-}
-
-.hamburger {
-    display: none;
-    cursor: pointer;
-    background: none;
-    border: none;
-    color: var(--white);
-    font-size: 1.8rem;
-} */
 
 /* Hero Section */
 .about-hero {
@@ -197,7 +118,7 @@ body {
 
 /* Section Styling */
 .section {
-    padding: 100px 20px;
+    padding: 50px 20px;
     max-width: 1200px;
     margin: 0 auto;
 }
@@ -208,9 +129,11 @@ body {
     color: var(--secondary-color);
     margin-bottom: 25px;
     position: relative;
-    display: inline-block;
-    width: 100%;
+    /* display: inline-block;
+    width: 100%; */
     font-weight: 700;
+    display: block;
+    width: 100%;
 }
 
 .section-title::after {
@@ -339,7 +262,7 @@ body {
 /* Our Mission Section */
 .mission-section {
     background: linear-gradient(rgba(255, 255, 255, 0.95), rgba(245, 250, 245, 0.9)), url('https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80') no-repeat center center/cover;
-    padding: 120px 20px;
+    padding: 10px 20px;
 }
 
 .mission-container {
@@ -761,7 +684,7 @@ body {
 
 @media (max-width: 576px) {
     .about-hero {
-        padding: 120px 20px 70px;
+        padding: 160px 20px 70px;
     }
 
     .about-hero h1 {
@@ -1022,7 +945,7 @@ body {
 } */
 
 /* Mobile Menu Styles */
-.mobile-menu {
+/* .mobile-menu {
     position: fixed;
     top: 0;
     right: -300px;
@@ -1163,7 +1086,7 @@ body {
 }
 
 
-
+ */
 
 
 
