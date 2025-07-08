@@ -11,6 +11,7 @@ http_response_code(404);
   <title>Page Not Found | Printer Setup Zone</title>
   <link rel="icon" type="image/png" href="/assets/favicon.png">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
   <style>
     /* Reset and base styles */
     * {

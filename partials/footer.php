@@ -165,9 +165,11 @@
                 <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 8PM, Sat-Sun: 9AM - 6PM</p>
             </div>
             <div class="social-icons">
-                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://x.com/printersetupzon" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
                 <!-- <a href="#"><i class="fab fa-x-twitter"></i></a> -->
-                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="https://in.pinterest.com/printersetupzone" target="_blank">
+                    <i class="fab fa-pinterest-p"></i>
+                </a>
                 <a href="#"><i class="fab fa-linkedin-in"></i></a>
             </div>
         </div>
