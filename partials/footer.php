@@ -100,6 +100,13 @@
         border-top: 1px solid #333;
         margin-top: 50px;
     }
+
+    @media (max-width: 768px) {
+        .footer-column {
+            margin-left: 0rem !important;
+            margin-right: 0rem !important;
+        }
+    }
 </style>
 
 <footer class="footer">
