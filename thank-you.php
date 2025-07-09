@@ -372,7 +372,7 @@
                 </div>
                 <div class="detail-content">
                     <h4>Need Immediate Help?</h4>
-                    <p>Call our support line at <strong>1-800-PRINTER</strong> for urgent assistance.</p>
+                    <p>Call our support line at <strong>+1 (888) 768-3855</strong> for urgent assistance.</p>
                 </div>
             </div>
             <div class="detail-item">
@@ -390,7 +390,7 @@
             <a href="/" class="btn btn-primary">
                 <i class="fas fa-home mr-2"></i> Return Home
             </a>
-            <a href="/contact" class="btn btn-secondary">
+            <a href="/contact-us" class="btn btn-secondary">
                 <i class="fas fa-headset mr-2"></i> Contact Support
             </a>
         </div>
