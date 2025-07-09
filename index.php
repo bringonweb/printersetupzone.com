@@ -177,7 +177,8 @@
                 issues resolved today! </p> -->
 
 
-                <button>ENQUIRE NOW</button>
+                <a href="tel:+18887683855" style="text-decoration: none; color: #fff;">
+                    <button>ENQUIRE NOW</button></a>
         </div>
     </section>
 
