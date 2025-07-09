@@ -129,7 +129,7 @@
                 <a href="#"><i class="fab fa-linkedin-in"></i></a>
             </div> -->
         </div>
-        <div class="footer-column" style="margin: 0rem 0rem 0rem 5rem;">
+        <div class="footer-column">
             <h3>Quick Links</h3>
             <ul class="footer-links">
                 <li><a href="/about-us">About Us</a></li>
@@ -167,8 +167,8 @@
             <h3>Contact Us</h3>
             <div class="footer-contact">
                 <p><i class="fas fa-map-marker-alt"></i>2nd floor, 241 Molnar Dr Elmwood Park, NJ 07407, USA</p>
-                <a href="tel:+18777171225" style="text-decoration: none;  color: white;">
-                    <p><i class="fas fa-phone"></i>+1 (877) 717-1225</p>
+                <a href="tel:+18887683855" style="text-decoration: none;  color: white;">
+                    <p><i class="fas fa-phone"></i>+1 (888) 768-3855</p>
                 </a>
                 <p><i class="fas fa-envelope"></i> support@PrinterSetupZone.com</p>
                 <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 8PM, Sat-Sun: 9AM - 6PM</p>

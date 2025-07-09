@@ -53,8 +53,10 @@
 
                     </div>
                     <div class="info-content">
-                        <h3>Phone Number</h3>
-                        <p>+1 (877) 717-1225 </p>
+                        <h3>Phone Number</h3><a href="tel:+18887683855" style="text-decoration: none;  color: white;">
+
+                            <p>+1 (888) 768-3855 </p>
+                        </a>
                     </div>
                 </div>
 
@@ -155,8 +157,9 @@
             <h2>24/7 Printer Support</h2>
             <p>Our team of certified printer technicians is available around the clock to assist you with any printer
                 issues. Whether it's a hardware malfunction, software configuration, or connectivity problem, we're here
-                to help.</p>
-            <button class="contact-btn" style="max-width: 300px; margin: 0 auto;">Call Now: +1 (877) 717-1225</button>
+                to help.</p><a href="tel:+18887683855" style="text-decoration: none;  color: white;">
+
+                <button class="contact-btn" style="max-width: 300px; margin: 0 auto;">Call Now</button></a>
         </div>
     </section>
 

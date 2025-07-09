@@ -76,8 +76,10 @@
                 <p>Printer Setup Zone reserves the right to change the terms. Continued use implies you accept and abide
                     by the changed terms.</p>
 
-                <h3>Contact Us</h3>
-                <p>📞 +1 (877) 717-1225</p>
+                <h3>Contact Us</h3><a href="tel:+18887683855
+ ">
+                    <p>📞 +1 (888) 768-3855</p>
+                </a>
 
                 <!-- <div class="last-updated">Last updated: August 15, 2023</div> -->
             </div>

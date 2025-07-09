@@ -55,7 +55,10 @@
                 </ul>
 
                 <h3>Contact for Refunds</h3>
-                <p>📞 +1 (877) 717-1225</p>
+                <a href="tel:+18887683855
+ ">
+                    <p>📞 +1 (888) 768-3855</p>
+                </a>
 
                 <!-- <div class="last-updated">Last updated: August 15, 2023</div> -->
             </div>
