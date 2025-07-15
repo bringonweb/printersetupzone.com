@@ -200,3 +200,4 @@
 </footer>
 
 <script src="//code.jivosite.com/widget/5uUVQHlL99" async></script>
+<script>document.querySelector('.jivo-powered-by')?.remove();</script>
