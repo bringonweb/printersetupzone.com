@@ -22,14 +22,15 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             $mail->isSMTP();
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;
-            $mail->Username = 'adityagupta80041@gmail.com'; // Use your actual Gmail
-            $mail->Password = 'zpzlkerohziiaouu';    // Use Gmail app password
+            $mail->Username = 'rrclogistic.ga4@gmail.com'; // Use your actual Gmail
+            $mail->Password = 'ewegsiuxhzveunuf
+';    // Use Gmail app password
             $mail->SMTPSecure = 'tls';
             $mail->Port = 587;
 
             // Recipients
-            $mail->setFrom('adityagupta80041@gmail.com', 'Printer Support');
-            $mail->addAddress('adityagupta80041@gmail.com', 'Admin');
+            $mail->setFrom('rrclogistic.ga4@gmail.com', 'Printer Support');
+            $mail->addAddress('ruhisr59@gmail.com', 'Admin');
 
             // Content
             $mail->isHTML(true);
