@@ -18,9 +18,7 @@
     <meta property="og:url" content="https://www.printersetupzone.com/" />
     <meta property="og:site_name" content="printersetupzone.com" />
     <meta name="twitter:card" content="summary_large_image" />
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-07D8FC7EDQ"></script>
-    <script>   window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-07D8FC7EDQ'); </script>
+  
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link rel="stylesheet" href="css/index-style.css">
     <link rel="icon" type="image/png" href="/assets/favicon.png">
