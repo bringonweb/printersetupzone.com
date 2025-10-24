@@ -199,7 +199,7 @@
     </div>
 </footer>
 
-<script>window.$zoho=window.$zoho || {};$zoho.salesiq=$zoho.salesiq||{ready:function(){}}</script><script id="zsiqscript" src="https://salesiq.zohopublic.in/widget?wc=siq3526f7c4055dc541aa0f5ce48f1210f2560997af6a36b8d1c570f87c27fa786d" defer></script>
+<!-- <script>window.$zoho=window.$zoho || {};$zoho.salesiq=$zoho.salesiq||{ready:function(){}}</script><script id="zsiqscript" src="https://salesiq.zohopublic.in/widget?wc=siq3526f7c4055dc541aa0f5ce48f1210f2560997af6a36b8d1c570f87c27fa786d" defer></script> -->
   <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-07D8FC7EDQ"></script>
-    <script>   window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-07D8FC7EDQ'); </script>
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-07D8FC7EDQ"></script>
+    <script>   window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-07D8FC7EDQ'); </script> -->
