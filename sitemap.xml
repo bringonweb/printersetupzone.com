@@ -1,67 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
+  <!-- Main Pages -->
+  <url>
+    <loc>https://www.printersetupzone.com/</loc>
+    <lastmod>2025-12-10T14:08:49+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
 
-<url>
-  <loc>https://www.printersetupzone.com/</loc>
-  <lastmod>2025-12-10T14:08:49+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.printersetupzone.com/about-us</loc>
-  <lastmod>2025-12-10T14:08:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.printersetupzone.com/blog/</loc>
-  <lastmod>2025-12-10T14:08:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.printersetupzone.com/contact-us</loc>
-  <lastmod>2025-12-10T14:08:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.printersetupzone.com/privacy-policy</loc>
-  <lastmod>2025-12-10T14:08:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.printersetupzone.com/refund-policy</loc>
-  <lastmod>2025-12-10T14:08:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.printersetupzone.com/terms-and-conditions</loc>
-  <lastmod>2025-12-10T14:08:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.printersetupzone.com/disclaimer</loc>
-  <lastmod>2025-12-10T14:08:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.printersetupzone.com/blog/how-to-fix-printer-not-printing/</loc>
-  <lastmod>2025-12-10T14:08:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.printersetupzone.com/blog/how-to-update-printer-driver/</loc>
-  <lastmod>2025-12-10T14:08:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.printersetupzone.com/blog/how-to-setup-a-printer/</loc>
-  <lastmod>2025-12-10T14:08:49+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+  <url>
+    <loc>https://www.printersetupzone.com/about-us</loc>
+    <priority>0.80</priority>
+  </url>
 
+  <url>
+    <loc>https://www.printersetupzone.com/contact-us</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://www.printersetupzone.com/privacy-policy</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.printersetupzone.com/refund-policy</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.printersetupzone.com/terms-and-conditions</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <url>
+    <loc>https://www.printersetupzone.com/disclaimer</loc>
+    <priority>0.50</priority>
+  </url>
+
+  <!-- Blog Index -->
+  <url>
+    <loc>https://www.printersetupzone.com/blog/</loc>
+    <lastmod>2025-12-13T15:03:00+00:00</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Blog Posts -->
+  <url><loc>https://www.printersetupzone.com/blog/how-to-update-printer-driver/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-setup-a-printer/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-fix-printer-not-printing/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-setup-an-hp-printer/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-update-hp-printer-drivers/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-setup-an-canon-printer/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-setup-an-epson-printer/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-setup-a-samsung-printer/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-setup-a-dell-printer/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-fix-hp-printer-not-printing/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-setup-an-brother-printer/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-install-update-brother-printer-drivers/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-fix-brother-printer-not-printing/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/guide-123hpcom-setup/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/canon-printer-not-printing/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-fix-paper-jam-in-a-printer/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-an-epson-printer-driver-update/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-update-canon-printer-drivers/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-clear-hp-printer-supply-memory-error/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-connect-an-epson-printer-to-wi-fi/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-connect-hp-officejet-pro-to-wifi/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-connect-an-lexmark-printer-to-wifi/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-setup-an-lexmark-printer/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-setup-an-toshiba-printer/</loc></url>
+  <url><loc>https://www.printersetupzone.com/blog/how-to-setup-an-kodak-printer/</loc></url>
 
 </urlset>
