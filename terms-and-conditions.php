@@ -81,7 +81,7 @@
                 <p>Printer Setup Zone reserves the right to change the terms. Continued use implies you accept and abide
                     by the changed terms.</p>
 
-                <h3>Contact Us</h3><a href="tel:+18583460555
+                <h3>Contact Us</h3><a href="tel:+18583460555"
  ">
                     <p>📞 +1 (858) 346-0555</p>
                 </a>
