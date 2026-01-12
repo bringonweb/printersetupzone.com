@@ -60,7 +60,7 @@
                 </ul>
 
                 <h3>Contact for Refunds</h3>
-                <a href="tel:+18583460555
+                <a href="tel:+18583460555"
  ">
                     <p>📞 +1 (858) 346-0555</p>
                 </a>
