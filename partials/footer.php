@@ -181,8 +181,7 @@
             <h3>Contact Us</h3>
             <div class="footer-contact">
                 <p><i class="fas fa-map-marker-alt"></i>2nd floor, 241 Molnar Dr Elmwood Park, NJ 07407, USA</p>
-                <p><i class="fas fa-phone"></i><a href="tel:+18887683855" style="text-decoration: none; color: #bbb;">+1
-                        (888) 768-3855</a></p>
+                <p><i class="fas fa-phone"></i><a href="tel:+18583460555" style="text-decoration: none; color: #bbb;">+1 (858) 346-0555</a></p>
                 <p><i class="fas fa-envelope"></i> support@PrinterSetupZone.com</p>
                 <p><i class="fas fa-clock"></i> Mon-Fri: 8AM - 8PM, Sat-Sun: 9AM - 6PM</p>
             </div>
@@ -190,12 +189,12 @@
                 <a href="https://x.com/printersetupzon" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
                 <a href="https://in.pinterest.com/printersetupzone" target="_blank"><i
                         class="fab fa-pinterest-p"></i></a>
-                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                <a ><i class="fab fa-linkedin-in"></i></a>
             </div>
         </div>
     </div>
     <div class="copyright">
-        <p>&copy; 2025 PrinterSetupZone. All rights reserved.</p>
+        <p>&copy; 2026 PrinterSetupZone. All rights reserved.</p>
     </div>
 </footer>
 
