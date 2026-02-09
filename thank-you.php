@@ -372,7 +372,7 @@
                 </div>
                 <div class="detail-content">
                     <h4>Need Immediate Help?</h4>
-                    <p>Call our support line at <strong>+1 (888) 768-3855</strong> for urgent assistance.</p>
+                    <p>Call our support line at <strong>+1 (858) 346-0555</strong> for urgent assistance.</p>
                 </div>
             </div>
             <div class="detail-item">
