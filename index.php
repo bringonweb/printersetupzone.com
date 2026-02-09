@@ -89,7 +89,7 @@
         <h2 class="brand-section-title">Choose Your Printer Brand</h2>
         <p class="brand-section-subtitle">Discover the Best Printer Solution for Home & Office.</p>
         <div class="brand-grid">
-            <a href="/hp-printer.php" class="brand-card"><img src="/assets/10 (1).webp" alt="HP"></a>
+            <a href="/hp-printer" class="brand-card"><img src="/assets/10 (1).webp" alt="HP"></a>
             <div class="brand-card"><img src="/assets/1.webp" alt="Canon"></div>
             <div class="brand-card"><img src="/assets/2.webp" alt="Epson"></div>
             <div class="brand-card"><img src="/assets/10 (2).webp" alt="Brother"></div>
