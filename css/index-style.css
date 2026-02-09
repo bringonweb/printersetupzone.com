@@ -588,6 +588,7 @@ body {
     overflow: hidden;
     position: relative;
     animation: fadeIn 0.8s ease;
+    text-decoration: none;
 }
 
 .brand-card:nth-child(1) {
