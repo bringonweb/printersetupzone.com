@@ -34,7 +34,7 @@
         <div class="support-content">
             <div class="support-left">
                 <div class="brand-header">
-                    <img src="assets/10 (1).webp" alt="HP Logo" class="brand-logo">
+                    <!-- <img src="assets/10 (1).webp" alt="HP Logo" class="brand-logo"> -->
                     <h2>HP</h2>
                 </div>
                 <p>
@@ -338,3 +338,4 @@ If you are having trouble with wireless printer reconnecting to the right Wi-Fi 
 </body>
 
 </html>
+
