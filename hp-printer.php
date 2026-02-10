@@ -164,8 +164,8 @@ If you are having trouble with wireless printer reconnecting to the right Wi-Fi 
         </div>
         <div class="issues-note">
             <p>If your issue is still not resolved here, connect with a certified expert here (24*7)...</p>
-            <a href="tel:+18887683855" class="call-now-btn">
-                <i class="fas fa-phone-alt"></i> Call Now
+            <a href="tel:+18583460555" class="call-now-btn">
+                <i class="fas fa-phone"></i> Call Now
             </a>
         </div>
     </section>
@@ -327,18 +327,15 @@ If you are having trouble with wireless printer reconnecting to the right Wi-Fi 
         <h2>Need Help With Your HP Printer?</h2>
         <p>Our certified HP printer specialists are available 24/7 to assist you with any printer issues. Get expert support now!</p>
 
-        <!-- <a href="tel:+18887683855" class="cta-btn">
-            <i c
-        lass="fas fa-phone"></i> Call +1 (888) 768-3855
-        </a> -->
-         <a href="tel:+18887683855" class="call-now-btn">
-                <i class="fas fa-phone-alt"></i> Call Now
-         </a>
+        <a href="tel:+18583460555" class="call-now-btn">
+            <i class="fas fa-phone"></i> Call Now
+        </a>
     </div>
 </section>
 
 <style>
-.cta-btn i {
+.cta-btn i,
+.call-now-btn i {
     transform: none !important;   /* 🔥 icon ulta hone ka fix */
     margin-right: 8px;
 }
