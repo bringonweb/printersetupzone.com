@@ -87,7 +87,7 @@ If you are having trouble with wireless printer reconnecting to the right Wi-Fi 
 
     <!-- Printer Issues Section -->
     <section class="printer-issues-section">
-        <h2 class="section-title">Please Select Your Printer Issues!</h2>
+        <h2 class="section-title">Please select your printer to resolve all issues quickly.</h2>
         <div class="issues-grid">
             <div class="issue-card">
                 <div class="issue-icon">
