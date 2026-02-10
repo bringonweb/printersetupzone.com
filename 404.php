@@ -476,7 +476,7 @@ http_response_code(404);
         </div> -->
 
     <a href="/" class="home-btn">
-      <i class="fas fa-home"></i> Back to Homepage
+      <i class="fas fa-home"></i> Back to Homepages
     </a>
 
     <!-- <div class="helpful-links">
