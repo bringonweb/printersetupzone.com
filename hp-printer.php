@@ -33,10 +33,20 @@
         <div class="support-overlay"></div>
         <div class="support-content">
             <div class="support-left">
-                <div class="brand-header">
-                    <!-- <img src="assets/10 (1).webp" alt="HP Logo" class="brand-logo"> -->
-                    <h2>HP</h2>
-                </div>
+                <style>
+.brand-header {
+    display: flex;
+    justify-content: center;   /* horizontal center */
+    align-items: center;       /* vertical center */
+    text-align: center;
+}
+</style>
+
+<div class="brand-header">
+    <!-- <img src="assets/10 (1).webp" alt="HP Logo" class="brand-logo"> -->
+    <h2>HP</h2>
+</div>
+
                 <p>
                     The fact that HP printers are reliable does not mean that they will never experience problems. Among the most common problems with HP printer may be paper jams, printer off-line problems, slow printing, poor quality prints and connection problems. If You Face paper stuck Problem, you can do turn-off the printer and carefully remove all stuck paper from both the tray and roller. 
 
@@ -87,7 +97,7 @@ If you are having trouble with wireless printer reconnecting to the right Wi-Fi 
 
     <!-- Printer Issues Section -->
     <section class="printer-issues-section">
-        <h2 class="section-title">Please select your printer to resolve all issues quickly.</h2>
+        <h2 class="section-title">Please Select Your Printer To Resolve All Issues Quickly</h2>
         <div class="issues-grid">
             <div class="issue-card">
                 <div class="issue-icon">
