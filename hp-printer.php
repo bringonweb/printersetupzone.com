@@ -320,16 +320,27 @@ If you are having trouble with wireless printer reconnecting to the right Wi-Fi 
         </div>
     </section>
 
-    <!-- CTA Section -->
-    <section class="cta-section">
-        <div class="cta-content">
-            <h2>Need Help With Your HP Printer?</h2>
-            <p>Our certified HP printer specialists are available 24/7 to assist you with any printer issues. Get expert support now!</p>
-            <a href="tel:+18887683855" class="cta-btn">
-                <i class="fas fa-phone-alt"></i> Call +1 (888) 768-3855
-            </a>
-        </div>
-    </section>
+    <!-- Font Awesome (required) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+<section class="cta-section">
+    <div class="cta-content">
+        <h2>Need Help With Your HP Printer?</h2>
+        <p>Our certified HP printer specialists are available 24/7 to assist you with any printer issues. Get expert support now!</p>
+
+        <a href="tel:+18887683855" class="cta-btn">
+            <i class="fas fa-phone"></i> Call +1 (888) 768-3855
+        </a>
+    </div>
+</section>
+
+<style>
+.cta-btn i {
+    transform: none !important;   /* 🔥 icon ulta hone ka fix */
+    margin-right: 8px;
+}
+</style>
+
 
     <!-- Footer -->
     <?php include 'partials/footer.php'; ?>
@@ -338,4 +349,5 @@ If you are having trouble with wireless printer reconnecting to the right Wi-Fi 
 </body>
 
 </html>
+
 
