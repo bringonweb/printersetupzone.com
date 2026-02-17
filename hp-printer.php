@@ -103,7 +103,7 @@ If you are having trouble with wireless printer reconnecting to the right Wi-Fi 
                 <div class="issue-icon">
                     <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='12' y='20' width='40' height='28' rx='3' fill='none' stroke='%232a3d1f' stroke-width='2'/%3E%3Crect x='18' y='8' width='28' height='12' fill='none' stroke='%232a3d1f' stroke-width='2'/%3E%3Crect x='18' y='48' width='28' height='10' fill='none' stroke='%232a3d1f' stroke-width='2'/%3E%3Ccircle cx='46' cy='30' r='3' fill='%232a3d1f'/%3E%3Cpath d='M50 36 L56 30' stroke='%233aaf85' stroke-width='2'/%3E%3C/svg%3E" alt="Printer Offline">
                 </div>
-                <h3><a href = "">Printer Offline</a></h3>
+                <h3>Printer Offline</h3>
             </div>
             <div class="issue-card">
                 <div class="issue-icon">
@@ -115,7 +115,7 @@ If you are having trouble with wireless printer reconnecting to the right Wi-Fi 
                 <div class="issue-icon">
                     <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='12' y='20' width='40' height='28' rx='3' fill='none' stroke='%232a3d1f' stroke-width='2'/%3E%3Crect x='18' y='8' width='28' height='12' fill='none' stroke='%232a3d1f' stroke-width='2'/%3E%3Cpath d='M18 52 Q32 60 46 52' fill='none' stroke='%232a3d1f' stroke-width='2'/%3E%3Ccircle cx='46' cy='30' r='3' fill='%232a3d1f'/%3E%3C/svg%3E" alt="Printer Paper Jam">
                 </div>
-                <h3> <a href = "">Printer Paper Jam</h3>
+                <h3> Printer Paper Jam</h3>
             </div>
             <div class="issue-card">
                 <div class="issue-icon">
@@ -359,6 +359,7 @@ If you are having trouble with wireless printer reconnecting to the right Wi-Fi 
 </body>
 
 </html>
+
 
 
 
