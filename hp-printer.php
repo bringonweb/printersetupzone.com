@@ -122,12 +122,14 @@ If you are having trouble with wireless printer reconnecting to the right Wi-Fi 
                     <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='12' y='20' width='40' height='28' rx='3' fill='none' stroke='%232a3d1f' stroke-width='2'/%3E%3Crect x='18' y='8' width='28' height='12' fill='none' stroke='%232a3d1f' stroke-width='2'/%3E%3Crect x='18' y='48' width='28' height='10' fill='none' stroke='%232a3d1f' stroke-width='2'/%3E%3Ccircle cx='46' cy='30' r='3' fill='%232a3d1f'/%3E%3Cpath d='M50 26 L54 22 L56 28 Z' fill='%233aaf85'/%3E%3C/svg%3E" alt="Printer Setup Issue">
                 </div>
                 <h3> Printer Setup Issue </h3>
-            </div></a>
+          </a>  </div>
+                <a href = "https://www.printersetupzone.com/blog/how-to-update-hp-printer-drivers/">
             <div class="issue-card">
                 <div class="issue-icon">
                     <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='12' y='20' width='40' height='28' rx='3' fill='none' stroke='%232a3d1f' stroke-width='2'/%3E%3Crect x='18' y='8' width='28' height='12' fill='none' stroke='%232a3d1f' stroke-width='2'/%3E%3Crect x='18' y='48' width='28' height='10' fill='none' stroke='%232a3d1f' stroke-width='2'/%3E%3Ccircle cx='32' cy='34' r='8' fill='none' stroke='%233aaf85' stroke-width='2'/%3E%3Cpath d='M28 34 L30 36 L36 30' stroke='%233aaf85' stroke-width='2' fill='none'/%3E%3C/svg%3E" alt="Printer Driver">
                 </div>
                 <h3>Printer Driver</h3>
+                 </a>
             </div>
             <div class="issue-card">
                 <div class="issue-icon">
@@ -359,6 +361,7 @@ If you are having trouble with wireless printer reconnecting to the right Wi-Fi 
 </body>
 
 </html>
+
 
 
 
